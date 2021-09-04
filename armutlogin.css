@@ -1,0 +1,136 @@
+body{
+    margin: 0;
+    padding 0;
+}
+
+.header{
+    font-family: 'Pacifico', cursive;
+    border: 1px solid #cecece;
+    height: 100px;
+}
+.header i{
+    font-size: 35px;
+    margin-left: 10%;
+    color: yellow;
+    
+}
+
+.header h1{
+    display: inline-block;
+    }
+.header h6{
+    float: right;
+    margin-right: 20%;
+    margin-top: 3%;
+}
+
+.header a{
+    text-decoration-line: none;
+    color: black;
+}
+
+input[type="submit"] {
+    display: block;
+    margin-top: 2%;
+    width:94%;
+    margin-right: 3%;
+    background-color: #ff6400;
+    height: 40px;
+    text-align: center;
+    font-size: 19px;
+    color: white;
+    cursor: pointer;
+    transition-duration: 0.8s;
+}
+.container{
+    background-color: #f8f8f8;
+    height:600px;
+    top: 0px;
+}
+.footer{
+   
+}
+.box{
+    border: 1px solid #dddddd;
+    display: inline-block;
+    width: 35%;
+    height: 50%;
+    margin-top: 1%;
+    border-top: 3px solid #f1eb30;
+    background-color: white;
+        margin-left: 15%;
+}
+.box h1{
+    margin-left: 3%;
+    width: 30px;
+}
+.box form{
+    margin-left: 3%;
+}
+input[type="text"]{
+    height: 20px;
+    margin-right: 3%;
+    width: 89%;
+}
+input[type="password"]{
+    height: 20px;
+    margin-right: 3%;
+    width: 89%;
+}
+form a{
+    text-decoration-line: none;
+    color: #f1eb30;
+}
+input[type="submit"]:hover {
+    background-color: #ffaf28;
+}
+.footer{
+    background-color: #404259;
+    height: 220px;
+    color: #adaeb3;
+    position: relative;
+    }
+.footer h5{
+    display:inline-block;
+    margin-top: 2%;
+    margin-left: 20%;
+}
+.our{
+    float: right;
+    margin-right: 20%;}
+.f1{
+    display: block;
+}
+
+.footer h6{
+    display: inline-block;
+    margin-left: 20%;
+}
+.mour{
+    float: right;
+    margin-right: 23%;
+}
+.f2{
+    display: block;
+}
+.f3{
+   margin-left: 20%;
+    display:block;
+    height: 63px;
+}
+ .footer h4{
+    margin-bottom: 10%;
+    display: inline-block;
+      font-family: 'Pacifico', cursive;
+}
+.f3 p{
+    display: inline-block;
+}
+
+.footer i{
+    color: yellow;
+}
+.footer a{
+    text-decoration-line: none;
+    color:  #adaeb3;
+}
